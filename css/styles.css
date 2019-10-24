@@ -1,0 +1,14 @@
+.my_favorite_band{
+  font-size: 30 px;
+  font-style: italic;
+}
+.sidebar{
+  width: 40%;
+  float: left;
+  background-color: red;
+  margin-right: 4%;
+  padding: 1%;
+}
+.img{
+  float:right;
+}
