@@ -8,7 +8,19 @@
   background-color: red;
   margin-right: 4%;
   padding: 1%;
+  font-style: normal;
 }
-.img{
+.pic{
   float:right;
+  padding-left: 1%;
+  width: 50%;
+  padding-bottom: 1%;
+}
+
+.info{
+  font-size: 20px;font-style: normal;
+  border-style: dashed;
+  padding: 1%;
+  width: 97%;
+  clear: both;
 }
